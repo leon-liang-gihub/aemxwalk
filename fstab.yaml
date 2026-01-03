@@ -1,5 +1,5 @@
 mountpoints:
-  /aemxwalk:
-    url: "https://author-p133573-e1506300.adobeaemcloud.com/bin/franklin.delivery/leon-liang-gihub/aemxwalk/main"
+  /aemxwalk-stage:
+    url: "https://author-p133573-e1506300.adobeaemcloud.com/bin/franklin.delivery/leon-liang-gihub/aemxwalk/stage"
     type: "markup"
     suffix: ".html"
