@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p133573-e1506300.adobeaemcloud.com/bin/franklin.delivery/jokerywr/aemxwalk/main"
-    type: "markup"
-    suffix: ".html"
