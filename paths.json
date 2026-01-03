@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aemxwalk/:/",
+    "/content/aemxwalk/:/aemxwalk",
     "/content/aemxwalk/configuration:/.helix/config.json",
     "/content/aemxwalk/metadata:/metadata.json"
   ],
