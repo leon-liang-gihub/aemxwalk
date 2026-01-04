@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aemxwalk/:/aemxwalk",
-    "/content/aemxwalk/configuration:/.helix/config.json",
-    "/content/aemxwalk/metadata:/metadata.json"
+    "/content/aemxwalk-development/:/",
+    "/content/aemxwalk-development/configuration:/.helix/config.json",
+    "/content/aemxwalk-development/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aemxwalk"
+    "/content/aemxwalk-development"
   ]
 }
